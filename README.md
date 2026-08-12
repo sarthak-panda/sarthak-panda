@@ -12,7 +12,6 @@
 
 ## 🚀 Featured Work
 - [COL851_Project](https://github.com/sarthak-panda/COL851_Project): PM2.5 forecasting with Chronos, runtime benchmarking, and inference-server experiments.
-- [Construction_Progress_Tracker](https://github.com/sarthak-panda/Construction_Progress_Tracker): multi-user construction workflow platform with role-based approvals and progress visualization.
 - [COL775_A1](https://github.com/sarthak-panda/COL775_A1) & [COL775_A2](https://github.com/sarthak-panda/COL775_A2): coursework projects in deep learning and vision.
 - [Delay-Analysis-and-Area-Optimalization-of-Netlist-](https://github.com/sarthak-panda/Delay-Analysis-and-Area-Optimalization-of-Netlist-): delay analysis and area optimization for digital circuits.
 - [codecrafters-shell-cpp](https://github.com/sarthak-panda/codecrafters-shell-cpp): shell implementation exercises in C++.
