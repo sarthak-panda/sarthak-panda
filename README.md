@@ -21,3 +21,8 @@
 
 ## 📫 Connect
 - GitHub: [@sarthak-panda](https://github.com/sarthak-panda)
+
+## 💛 Favorite Anime Girl
+
+<img width="1200" height="720" alt="image" src="https://github.com/user-attachments/assets/6cbb84a9-d2d4-4548-9d61-781a0b495960" />
+
